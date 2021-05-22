@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/githubreact03/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/githubreact03/static/js/main.bfbbcb36.chunk.js",
-    "main.js.map": "/githubreact03/static/js/main.bfbbcb36.chunk.js.map",
+    "main.js": "/githubreact03/static/js/main.0d17f59b.chunk.js",
+    "main.js.map": "/githubreact03/static/js/main.0d17f59b.chunk.js.map",
     "runtime-main.js": "/githubreact03/static/js/runtime-main.0ed7c520.js",
     "runtime-main.js.map": "/githubreact03/static/js/runtime-main.0ed7c520.js.map",
     "static/js/2.48667bfd.chunk.js": "/githubreact03/static/js/2.48667bfd.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0ed7c520.js",
     "static/js/2.48667bfd.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.bfbbcb36.chunk.js"
+    "static/js/main.0d17f59b.chunk.js"
   ]
 }
